@@ -1,0 +1,6 @@
+body{font-family:"Noto Sans TC",system-ui;margin:24px;color:#eee;background:#111}
+h1{margin:0 0 12px}
+.roles label{margin-right:12px}
+textarea{width:100%;min-height:120px;padding:12px;border-radius:8px;border:1px solid #444;background:#161616;color:#eee}
+button{padding:10px 14px;border:0;border-radius:8px;background:#7a5cff;color:#fff;margin:8px 0;cursor:pointer}
+pre{white-space:pre-wrap;background:#161616;border:1px solid #333;padding:12px;border-radius:8px}
